@@ -1,6 +1,6 @@
 # API Demo: Definition by Country Coordinates v1.4
 
-This demo shows how to query the WildTracks API to get **country information by coordinates**.
+This **demo** shows how to query the WildTracks API to get **country information by coordinates**.
 
 ## Files
 - `country_by_coordinates.php` — Example PHP script.
